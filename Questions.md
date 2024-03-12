@@ -1,3 +1,5 @@
+## Portuguese
+
 1. Quais são os requisitos legais e regulatórios de segurança aplicáveis ao nosso produto?
 2. Como podemos incorporar o princípio de segurança por design desde o início do desenvolvimento do produto?
 3. Que dados sensíveis nosso produto coletará, processará ou armazenará, e como podemos protegê-los?
@@ -23,3 +25,32 @@
 23. Como realizaremos auditorias de segurança regulares e quem as realizará?
 24. Quais são as práticas recomendadas para a segurança em ambientes de nuvem, se aplicável ao produto?
 25. Como o produto contribuirá para a criação de um ecossistema de segurança digital mais amplo e seguro?
+
+## English
+
+1. What are the legal and regulatory safety requirements applicable to our product?
+2. How can we incorporate the principle of security by design from the beginning of product development?
+3. What sensitive data will our product collect, process or store, and how can we protect it?
+4. What are the potential threats to our product security, and how can we mitigate them?
+5. How will we ensure security in user authentication and authorization?
+6. What encryption measures will be implemented to protect data in transit and at rest?
+7. How will we integrate security into our CI/CD (Continuous Integration/Continuous Distribution) pipeline?
+8. How will we perform security testing, such as penetration testing, regularly?
+9. How will the product handle security for third-party APIs or integrations?
+10. What are the backup and disaster recovery policies to ensure business continuity?
+11. How will we establish a patch management process to quickly address security vulnerabilities?
+12. How will we educate our staff and end users about safe practices?
+13. How will we monitor and respond to security incidents?
+14. What tools and technologies will we use to strengthen product security?
+15. How will we ensure safety when scaling the product?
+16. How will security be considered in product updates or new features?
+17. How will we carry out the risk assessment for new features or changes to the product?
+18. What are the processes for handling data security in compliance with regulations such as GDPR or LGPD?
+19. How will we implement role-based access control (RBAC) for administrative functionality?
+20. What are the strategies to minimize security risks in the software supply chain?
+21. How will we ensure transparency and communication with users in the event of a security breach?
+22. How will data be sanitized or securely destroyed when it is no longer needed?
+23. How will we perform regular security audits and who will perform them?
+24. What are best practices for security in cloud environments, if applicable to the product?
+25. How will the product contribute to creating a broader and more secure digital security ecosystem?
+
